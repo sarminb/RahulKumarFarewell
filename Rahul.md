@@ -34,9 +34,9 @@ footer: "Rahul Kumar :heart:"
 <style scoped> { font-size:24px;}</style>
 ---
 
-### your name Says:
-####  headline you want to give
-##### your message
+### Mamoon Mallick Says:
+####  One of the Pillars of our Team
+##### It was a pleasure working with you, Rahul. We will definitely miss your presence as you have been a tech champion - always calm, composed, and ready to help. Besides being great colleagues, we wish you all the best and hope we can stay in touch.
 <!-- _class: lead -->
 <style scoped> { font-size:24px;}</style>
 ---
