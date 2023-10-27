@@ -48,9 +48,9 @@ footer: "Rahul Kumar :heart:"
 <style scoped> { font-size:24px;}</style>
 ---
 
-### your name Says:
-####  headline you want to give
-##### your message
+### Ankitha Says:
+####  Sending off a Tech Whiz!
+##### Wishing you the best as you move onto the new horizons. Your tech expertise will be missed, but I am excited for your future successes. Stay in touch. Until next time...
 <!-- _class: lead -->
 <style scoped> { font-size:24px;}</style>
 ---
