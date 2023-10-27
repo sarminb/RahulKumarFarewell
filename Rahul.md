@@ -69,9 +69,9 @@ footer: "Rahul Kumar :heart:"
 <style scoped> { font-size:24px;}</style>
 ---
 
-### your name Says:
-####  headline you want to give
-##### your message
+### Tamim:
+####  "Super Coder"
+##### Hey Rara,it was nice working with you.You have contributed a lot to blaze in such a short span of time.I must say you can solve most of the code issues quickly either solving it yourself or by approaching the right person.I believe your fast problem solving skills,attitude to learn anything and everyting and your energy to work will help you grow fast professionally.Wish you all the best for your future endeavours.    
 <!-- _class: lead -->
 <style scoped> { font-size:24px;}</style>
 ---
