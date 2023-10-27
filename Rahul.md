@@ -35,7 +35,7 @@ footer: "Rahul Kumar :heart:"
 ---
 
 ### Mamoon Mallick Says:
-####  One of the Pillars of our Team
+####  One of the Pillars of Blaze Team
 ##### It was a pleasure working with you, Rahul. We will definitely miss your presence as you have been a tech champion - always calm, composed, and ready to help. Besides being great colleagues, we wish you all the best and hope we can stay in touch.
 <!-- _class: lead -->
 <style scoped> { font-size:24px;}</style>
@@ -55,9 +55,9 @@ footer: "Rahul Kumar :heart:"
 <style scoped> { font-size:24px;}</style>
 ---
 
-### your name Says:
-####  headline you want to give
-##### your message
+### Sheet Says:
+####  RaRa: Super enthusiastic, helpful, tech hungry 😀
+##### RaRa your journey since joining us to date has been fantastic. You were quick to not only learn new things but own them end to end. Your passions towards technology & innovation, and you helping nature is something that I have come to appreciate greatly. Thank you for all you did! Wishing you luck for all your future endeavours and I hope we get a chance to work together again.
 <!-- _class: lead -->
 <style scoped> { font-size:24px;}</style>
 ---
