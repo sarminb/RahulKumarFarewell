@@ -24,6 +24,15 @@ footer: "Rahul Kumar :heart:"
 <!-- This is presenter note. You can write down notes through HTML comment. -->
 ---
 
+### Arun Says:
+#### Rahul: All the BEST !!
+##### You will be missed by the entire team. Your contribution to Blaze Platform and holding the flag in NY have left positive impression on many. Although it's hard to part ways, we at Amex are sending our best wishes for your next role.
+
+<!-- _class: lead -->
+
+<style scoped> { font-size:24px;}</style>
+---
+
 
 ### Sarmin Says:
 #### Rahul: Tech savvy, Innovation Champion, Patience , Super helpful attitude
