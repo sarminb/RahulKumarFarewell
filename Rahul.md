@@ -25,13 +25,24 @@ footer: "Rahul Kumar :heart:"
 ---
 
 
-### Sarmin Says:
-#### Rahul: Tech savvy, Innovation Champion, Patience , Super helpful attitude
-##### We have seen your tremendous growth in last two years. The time and effort that you have put in Blaze are just amazing. Your dedication and knowledge helped Blaze to reach next level.So proud of you and your efforts, keep learning and keep growing !! All the BEST and keep in touch. 
+### Arun Says:
+#### Rahul: All the BEST !!
+##### You will be missed by the entire team. Your contribution to Blaze Platform and holding the flag in NY have left positive impression on many. Although it's hard to part ways,we at Amex are sending our best wishes for your next role.
+
 
 <!-- _class: lead -->
 
 <style scoped> { font-size:24px;}</style>
+---
+
+### Sarmin Says:
+#### Rahul: Tech savvy, Innovation Champion, Patience , Super helpful attitude
+#####  We have seen your tremendous growth in last two years. The time and effort that you have put in Blaze are just amazing. Your dedication and knowledge helped Blaze to reach next level.So proud of you and your efforts, keep learning and keep growing !! All the BEST and keep in touch. 
+
+<!-- _class: lead -->
+
+<style scoped> { font-size:24px;}</style>
+
 ---
 
 ### Mamoon Mallick Says:
