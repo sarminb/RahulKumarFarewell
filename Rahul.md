@@ -41,9 +41,9 @@ footer: "Rahul Kumar :heart:"
 <style scoped> { font-size:24px;}</style>
 ---
 
-### your name Says:
-####  headline you want to give
-##### your message
+### Atheeth kaup Says:
+####  Live wire of blaze
+##### All the best for your future. It was nice working with you. Blaze will miss you. Keep rocking and electrifying your team.
 <!-- _class: lead -->
 <style scoped> { font-size:24px;}</style>
 ---
