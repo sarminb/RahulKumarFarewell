@@ -25,24 +25,13 @@ footer: "Rahul Kumar :heart:"
 ---
 
 
-### Arun Says:
-#### Rahul: All the BEST !!
-##### You will be missed by the entire team. Your contribution to Blaze Platform and holding the flag in NY have left positive impression on many. Although it's hard to part ways,we at Amex are sending our best wishes for your next role.
-
-
-<!-- _class: lead -->
-
-<style scoped> { font-size:24px;}</style>
----
-
 ### Sarmin Says:
 #### Rahul: Tech savvy, Innovation Champion, Patience , Super helpful attitude
-#####  We have seen your tremendous growth in last two years. The time and effort that you have put in Blaze are just amazing. Your dedication and knowledge helped Blaze to reach next level.So proud of you and your efforts, keep learning and keep growing !! All the BEST and keep in touch. 
+##### We have seen your tremendous growth in last two years. The time and effort that you have put in Blaze are just amazing. Your dedication and knowledge helped Blaze to reach next level.So proud of you and your efforts, keep learning and keep growing !! All the BEST and keep in touch. 
 
 <!-- _class: lead -->
 
 <style scoped> { font-size:24px;}</style>
-
 ---
 
 ### Mamoon Mallick Says:
@@ -83,6 +72,13 @@ footer: "Rahul Kumar :heart:"
 ### Tamim:
 ####  "Super Coder"
 ##### Hey Rara,it was nice working with you.You have contributed a lot to blaze in such a short span of time.I must say you can solve most of the code issues quickly either solving it yourself or by approaching the right person.I believe your fast problem solving skills,attitude to learn anything and everyting and your energy to work will help you grow fast professionally.Wish you all the best for your future endeavours.    
+<!-- _class: lead -->
+<style scoped> { font-size:24px;}</style>
+---
+
+### Kanhaiya Says:
+####  Rara: The Amazing Technocrat
+##### You have been blessed with some special talent. you are very quick in learning,understanding and implementing new technology in very short span of time.Your skill is quite matured to solve any kind of business needs.you are very helpful,open and enthusiastic for "Search of New" always that makes you different from others.Your work ethic inspires me to be my best every day. I'm more confident that you will rock in your future's job. We will miss you here. All the Best Rara:The Technocrat 
 <!-- _class: lead -->
 <style scoped> { font-size:24px;}</style>
 ---
