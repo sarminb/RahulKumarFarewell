@@ -62,9 +62,9 @@ footer: "Rahul Kumar :heart:"
 <style scoped> { font-size:24px;}</style>
 ---
 
-### your name Says:
-####  headline you want to give
-##### your message
+### Param Says:
+#### "The speed machine"
+##### Rahul Kumar known as Rara, "The speed machine" I say !!!, you really have got special talent in understanding anything very quickly. I'm sad to see you go, but I'm excited to see where your talents take you. Thank you for your contributions and friendship during your time here. Best wishes for the future!
 <!-- _class: lead -->
 <style scoped> { font-size:24px;}</style>
 ---
